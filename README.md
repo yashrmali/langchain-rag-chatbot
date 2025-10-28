@@ -13,3 +13,6 @@ It can answer questions based on your own documents using embeddings and vector 
 - Ready for Streamlit or Azure deployment  
 
 ---
+## 🧩 System Architecture
+
+![RAG Chatbot Flowchart](assets/rag_flowchart.png)
